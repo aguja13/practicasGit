@@ -7,3 +7,7 @@
 ## Contacto
 
 * email: agustinpfs[at]gmail[dot]com
+
+## Licencia
+
+Apache License 2.0
